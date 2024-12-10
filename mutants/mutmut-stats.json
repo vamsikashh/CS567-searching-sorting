@@ -1,0 +1,142 @@
+{
+    "tests_by_mangled_function_name": {
+        "sample.program.x\u01c1SearchLibrary\u01c1radix_sort": [
+            "tests/test_program.py::TestSearchLibrary::test_radix_sort",
+            "tests/test_program.py::TestSearchLibrary::test_binary_search_found"
+        ],
+        "sample.program.x\u01c1SearchLibrary\u01c1selection_sort": [
+            "tests/test_program.py::TestSearchLibrary::test_binary_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_selection_sort"
+        ],
+        "sample.program.x\u01c1SearchLibrary\u01c1__init__": [
+            "tests/test_program.py::TestSearchLibrary::test_jump_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_fibonacci_search_not_found",
+            "tests/test_program.py::TestSearchLibrary::test_fibonacci_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_radix_sort",
+            "tests/test_program.py::TestSearchLibrary::test_merge_sort",
+            "tests/test_program.py::TestSearchLibrary::test_selection_sort",
+            "tests/test_program.py::TestSearchLibrary::test_linear_search_not_found",
+            "tests/test_program.py::TestSearchLibrary::test_quick_sort",
+            "tests/test_program.py::TestSearchLibrary::test_bubble_sort",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_linear_search",
+            "tests/test_program.py::TestSearchLibrary::test_linear_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_binary_search_not_found",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_sort",
+            "tests/test_program.py::TestSearchLibrary::test_jump_search_not_found",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_interpolation_search",
+            "tests/test_program.py::TestSearchLibrary::test_heap_sort",
+            "tests/test_program.py::TestSearchLibrary::test_interpolation_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_insertion_sort",
+            "tests/test_program.py::TestSearchLibrary::test_binary_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_binary_search",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_jump_search",
+            "tests/test_program.py::TestSearchLibrary::test_interpolation_search_not_found",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_fibonacci_search",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_sort_error"
+        ],
+        "sample.program.x\u01c1SearchLibrary\u01c1bubble_sort": [
+            "tests/test_program.py::TestSearchLibrary::test_bubble_sort",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_sort",
+            "tests/test_program.py::TestSearchLibrary::test_binary_search_found"
+        ],
+        "sample.program.x\u01c1SearchLibrary\u01c1binary_search": [
+            "tests/test_program.py::TestSearchLibrary::test_binary_search_not_found",
+            "tests/test_program.py::TestSearchLibrary::test_binary_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_binary_search"
+        ],
+        "sample.program.x\u01c1SearchLibrary\u01c1linear_search": [
+            "tests/test_program.py::TestSearchLibrary::test_linear_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_binary_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_linear_search",
+            "tests/test_program.py::TestSearchLibrary::test_linear_search_not_found"
+        ],
+        "sample.program.x\u01c1SearchLibrary\u01c1merge_sort": [
+            "tests/test_program.py::TestSearchLibrary::test_binary_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_merge_sort",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_sort_error"
+        ],
+        "sample.program.x\u01c1SearchLibrary\u01c1quick_sort": [
+            "tests/test_program.py::TestSearchLibrary::test_quick_sort",
+            "tests/test_program.py::TestSearchLibrary::test_binary_search_found"
+        ],
+        "sample.program.x\u01c1SearchLibrary\u01c1jump_search": [
+            "tests/test_program.py::TestSearchLibrary::test_jump_search_not_found",
+            "tests/test_program.py::TestSearchLibrary::test_jump_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_binary_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_jump_search"
+        ],
+        "sample.program.x\u01c1SearchLibrary\u01c1fibonacci_search": [
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_fibonacci_search",
+            "tests/test_program.py::TestSearchLibrary::test_fibonacci_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_binary_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_fibonacci_search_not_found"
+        ],
+        "sample.program.x\u01c1SearchLibrary\u01c1interpolation_search": [
+            "tests/test_program.py::TestSearchLibrary::test_interpolation_search_not_found",
+            "tests/test_program.py::TestSearchLibrary::test_interpolation_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_interpolation_search",
+            "tests/test_program.py::TestSearchLibrary::test_binary_search_found"
+        ],
+        "sample.program.x\u01c1SearchLibrary\u01c1add_list": [
+            "tests/test_program.py::TestSearchLibrary::test_jump_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_fibonacci_search_not_found",
+            "tests/test_program.py::TestSearchLibrary::test_fibonacci_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_radix_sort",
+            "tests/test_program.py::TestSearchLibrary::test_merge_sort",
+            "tests/test_program.py::TestSearchLibrary::test_selection_sort",
+            "tests/test_program.py::TestSearchLibrary::test_linear_search_not_found",
+            "tests/test_program.py::TestSearchLibrary::test_quick_sort",
+            "tests/test_program.py::TestSearchLibrary::test_bubble_sort",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_linear_search",
+            "tests/test_program.py::TestSearchLibrary::test_linear_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_binary_search_not_found",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_sort",
+            "tests/test_program.py::TestSearchLibrary::test_jump_search_not_found",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_interpolation_search",
+            "tests/test_program.py::TestSearchLibrary::test_heap_sort",
+            "tests/test_program.py::TestSearchLibrary::test_interpolation_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_insertion_sort",
+            "tests/test_program.py::TestSearchLibrary::test_binary_search_found",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_binary_search",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_jump_search",
+            "tests/test_program.py::TestSearchLibrary::test_interpolation_search_not_found",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_fibonacci_search",
+            "tests/test_program.py::TestSearchLibrary::test_empty_list_sort_error"
+        ],
+        "sample.program.x\u01c1SearchLibrary\u01c1heap_sort": [
+            "tests/test_program.py::TestSearchLibrary::test_heap_sort",
+            "tests/test_program.py::TestSearchLibrary::test_binary_search_found"
+        ],
+        "sample.program.x\u01c1SearchLibrary\u01c1insertion_sort": [
+            "tests/test_program.py::TestSearchLibrary::test_insertion_sort",
+            "tests/test_program.py::TestSearchLibrary::test_binary_search_found"
+        ]
+    },
+    "duration_by_test": {
+        "tests/test_program.py::TestSearchLibrary::test_binary_search_found": 6.0666000000014764e-05,
+        "tests/test_program.py::TestSearchLibrary::test_binary_search_not_found": 4.820899999999351e-05,
+        "tests/test_program.py::TestSearchLibrary::test_bubble_sort": 4.379099999998748e-05,
+        "tests/test_program.py::TestSearchLibrary::test_empty_list_binary_search": 4.3082999999999316e-05,
+        "tests/test_program.py::TestSearchLibrary::test_empty_list_fibonacci_search": 4.5167000000012614e-05,
+        "tests/test_program.py::TestSearchLibrary::test_empty_list_interpolation_search": 4.266599999999676e-05,
+        "tests/test_program.py::TestSearchLibrary::test_empty_list_jump_search": 5.025000000000168e-05,
+        "tests/test_program.py::TestSearchLibrary::test_empty_list_linear_search": 4.899999999999349e-05,
+        "tests/test_program.py::TestSearchLibrary::test_empty_list_sort": 4.862499999999659e-05,
+        "tests/test_program.py::TestSearchLibrary::test_empty_list_sort_error": 4.850000000000687e-05,
+        "tests/test_program.py::TestSearchLibrary::test_fibonacci_search_found": 4.9125000000010965e-05,
+        "tests/test_program.py::TestSearchLibrary::test_fibonacci_search_not_found": 5.025000000000168e-05,
+        "tests/test_program.py::TestSearchLibrary::test_heap_sort": 4.9957999999988845e-05,
+        "tests/test_program.py::TestSearchLibrary::test_insertion_sort": 5.116699999999086e-05,
+        "tests/test_program.py::TestSearchLibrary::test_interpolation_search_found": 4.870800000000841e-05,
+        "tests/test_program.py::TestSearchLibrary::test_interpolation_search_not_found": 4.987500000000478e-05,
+        "tests/test_program.py::TestSearchLibrary::test_jump_search_found": 4.8749999999986304e-05,
+        "tests/test_program.py::TestSearchLibrary::test_jump_search_not_found": 4.504199999999514e-05,
+        "tests/test_program.py::TestSearchLibrary::test_linear_search_found": 5.099999999999549e-05,
+        "tests/test_program.py::TestSearchLibrary::test_linear_search_not_found": 4.550000000000387e-05,
+        "tests/test_program.py::TestSearchLibrary::test_merge_sort": 4.29580000000096e-05,
+        "tests/test_program.py::TestSearchLibrary::test_quick_sort": 4.654099999998329e-05,
+        "tests/test_program.py::TestSearchLibrary::test_radix_sort": 4.620799999999203e-05,
+        "tests/test_program.py::TestSearchLibrary::test_selection_sort": 6.320800000000903e-05
+    },
+    "stats_time": 0.106771
+}
